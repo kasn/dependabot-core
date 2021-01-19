@@ -15,6 +15,7 @@ cp -r \
   "$helpers_dir/run.js" \
   "$helpers_dir/.eslintrc" \
   "$helpers_dir/package.json" \
+  "$helpers_dir/jest.config.js" \
   "$helpers_dir/yarn.lock" \
   "$install_dir"
 
